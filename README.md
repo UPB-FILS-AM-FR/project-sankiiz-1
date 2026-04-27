@@ -23,11 +23,11 @@ Communication : Envoi de trames de données via stdio (USB/UART) vers l'interfac
 ### Block diagram
 
 <!-- Make sure the path to the picture is correct -->
-![Block Diagram](schematics/block_diagram.png)
+![Block Diagram](block_diagram_sistem_electronic.svg)
 
 ### Schematic
 
-![Schematic](schematics/kicad_schematic.png)
+![Schematic](kicad_schematic_pico_w.svg)
 
 ### Components
 
